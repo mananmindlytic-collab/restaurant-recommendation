@@ -1,0 +1,9 @@
+sentence-transformers 
+langgraph
+streamlit
+python-dotenv
+langchain
+langchain-openai
+langchain-core
+pydantic
+numpy
